@@ -2,7 +2,8 @@
   "name": "manimaran",
   "description": "test site",
   "devDependencies": {
-    "http-server": "~0.6.1"
+    "http-server": "~0.6.1",
+    "express": "*"
   },
   "scripts":{
 	"start" : "http-server -a localhost -p 8000"
